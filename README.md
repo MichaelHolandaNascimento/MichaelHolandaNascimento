@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MichaelHolanda
-- 👀  Desenvolvedor Treinner em FITBANK
+- 👀  Desenvolvedor Jr. em Acal Home Center
 - 🌱 I’m currently learnin C#
 - 💞️  Sempre aprendendo e evoluindo
 - 📫 (85) 98713 6596
